@@ -3,5 +3,5 @@ reactNative实现高效和高流畅性体验的FasterListDemo
 
 导入项目步骤：
 1.删除node_modules,防止在更新时出现文件冲突
-2.用webstorm打开项目后，在terminal中输入npm install 
+2.用webstorm打开项目后，在terminal中输入npm install （等待时间可能较长，可以添加淘宝镜像配置，即时配置了也会等待2-5分钟左右）
 此时会下载自动创建一个node_modules文件，并下载package.json中的相关依赖文件和一些基础文件
